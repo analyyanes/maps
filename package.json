@@ -1,0 +1,10 @@
+{
+	"name":"Ejemplo_Gmaps",
+	"version":"1.0.0",
+	"description": "ejemplo del uso del gmaps",
+	"dependencies":{
+
+	"express":"^4.13.4",
+	"socket.io":"^1.4.5"
+	}
+}
